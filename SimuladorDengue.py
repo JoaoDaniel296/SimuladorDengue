@@ -301,7 +301,3 @@ def main():
 
 main()
 
-# PLANOS ATE SEGUNDA
-# Otimizar o codigo o maximo possivel
-# Colocar o repositorio no github
-# GRAVAR VIDEOS TESTANDO O CODIGO
