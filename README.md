@@ -9,6 +9,8 @@ Este projeto é um simulador da epidemia da dengue, desenvolvido em Python. Ele 
 
 ## Instalação
 
+Baixe o arquivo zip e extraia ele
+
 ### Pré-requisitos
 
 Antes de começar, você precisará ter o seguinte instalado:
