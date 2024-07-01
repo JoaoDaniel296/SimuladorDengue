@@ -27,4 +27,5 @@ Caso deseja ver os resultados de simulações anteriores digite tabela que irá 
 ## Autores
 
 João Daniel Carvalho Garcia - Desenvolvedor Principal - JoãoDaniel296
+
 Hylson - Colaborador - Hylson
